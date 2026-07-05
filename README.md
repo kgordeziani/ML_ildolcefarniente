@@ -1,2 +1,2 @@
-# ML_AKPose
+# ML_ildolcefarniente
 Automatic exercise recognition in video
