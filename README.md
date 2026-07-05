@@ -13,4 +13,5 @@ Automatic exercise recognition in video
 ---
 ## რეპოზიტორიის სტრუქტურა
 
+
 ---
