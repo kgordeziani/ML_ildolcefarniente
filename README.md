@@ -539,7 +539,7 @@ Classification Report-ის ანალიზი აჩვენებს, რ
 
 ###
 
-ყველა ექსპერიმეტნი თავისი მეტრიკებით დალოგილია Wand&B-ზე:
+ყველა ექსპერიმენტი თავისი მეტრიკებით დალოგილია Wand&B-ზე:  
 https://wandb.ai/akeke23-free-university-of-tbilisi-/ildolcefarniente?nw=nwuserakeke23
 
 
