@@ -44,6 +44,7 @@ ML_ildolcefarniente/
 │   ├── p2_randomforest.ipynb               # RF (basic / extended aggregation)
 │   ├── p2_XGboost.ipynb                    # XGBoost
 │   ├── p2_gru.ipynb                        # GRU ექსპერიმენტები
+│   ├── p2_final_test_evaluation.ipynb      # ტესტირება
 │   ├── p2_lstm_bilstm.ipynb                # LSTM / BiLSTM
 │   └── p2_1dcnn.ipynb                      # 1D CNN ექსპერიმენტი
 │
