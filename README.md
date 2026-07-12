@@ -19,7 +19,40 @@ Penn დატასეტი შეიცავს უამრავ სპო
 
 ---
 ## რეპოზიტორიის სტრუქტურა
-
+```
+ML_ildolcefarniente/
+│
+├── data_merge.ipynb                        # Penn Action + Kaggle გაერთიანება
+│
+├── pipeline1/                              # Keypoint-based (13kp), BiLSTM-ზე ორიენტირებული
+│   ├── p1_datapreparation.ipynb            # keypoint extraction (Penn GT + MediaPipe Lite), normalization, sequence 
+│   ├── p1_eda.ipynb                        # class imbalance, joint angle ანალიზი
+│   ├── p1_randomforest.ipynb               # baseline RF (last_frame / aggregated / full_sequence)
+│   ├── p1_xgboost.ipynb                    # baseline XGBoost
+│   ├── p1_LSTM.ipynb                       # უნიდირექციული LSTM ექსპერიმენტები
+│   ├── p1_BiLSTM.ipynb                     # BiLSTM (Class weights, Dropout)
+│   └── p1_BiLSTM_Hybrid.ipynb              # BiLSTM + Attention Pooling + regularization
+│
+├── pipeline2/                              # Keypoint-based (33kp, MediaPipe Full)
+│   ├── p2_dataprep.ipynb                   # 33kp extraction ორივე წყაროდან, joint angles (6), sequence building
+│   ├── p2_randomforest.ipynb               # RF (basic / extended aggregation)
+│   ├── p2_XGboost.ipynb                    # XGBoost
+│   ├── p2_gru.ipynb                        # GRU ექსპერიმენტები
+│   ├── p2_lstm_bilstm.ipynb                # LSTM / BiLSTM
+│   └── p2_1dcnn.ipynb                      # 1D CNN ექსპერიმენტი
+│
+├── Pipeline 3/                             # Video-based (raw frames, keypoint-ების გარეშე)
+│   ├── p3_dataprep.ipynb                   # label cleanup, merge/drop, split, frame caching (decord)
+│   ├── p3_x3d.ipynb                        # X3D (Kinetics-400 pretrained)
+│   └── p3_SlowFast.ipynb                   # SlowFast-R50 (Kinetics-400 pretrained)
+│
+├── data/
+│   ├── combined.csv                        # Pipeline 1/2 manifest (video_id, source, label, split)
+│   └── combined_cached_final.csv           # Pipeline 3 manifest (+ path, media_type, cache_path)
+│
+├── .gitignore
+└── README.md
+```
 
 ---
 
