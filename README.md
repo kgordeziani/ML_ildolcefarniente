@@ -18,6 +18,7 @@ Penn დატასეტი შეიცავს უამრავ სპო
 რეპოზიტორია არ შეიცავს ნედლ ვიდეო/სურათის ფაილებს (წონის მიზეზით). დატასეტების წყაროები:
 
 [Penn Action Dataset]( http://dreamdragon.github.io/PennAction/)
+
 [Kaggle Workout/Exercises Video]( https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-video)
 
 იმის გამო რომ გვაქვს ძალიან დაუბალანსებელი დატა მონაცემების Random Split-ით დაყოფა არასწორია და ვიყენებთ Stratified მოდგომას, რაც უზრუნველყოფს რომ train, val, test-ში სეგმენტები პროპორციულად იყვნენ. ასევე დატას ვყოფთ გრუპებად, რომ ერთი ვიდეოს კადრების არევა არ მოხდეს, ერთდროულად ტესტში და ტრეინშ არ აღმოჩნდეს ერთი ვიდეოს კადრები. 
