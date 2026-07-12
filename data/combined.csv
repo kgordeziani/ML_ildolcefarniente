@@ -1,0 +1,1814 @@
+video_id,source,label,split
+0341,penn,bench_press,val
+0342,penn,bench_press,train
+0343,penn,bench_press,train
+0344,penn,bench_press,train
+0345,penn,bench_press,train
+0346,penn,bench_press,train
+0347,penn,bench_press,test
+0348,penn,bench_press,val
+0349,penn,bench_press,train
+0350,penn,bench_press,train
+0351,penn,bench_press,train
+0352,penn,bench_press,train
+0353,penn,bench_press,train
+0354,penn,bench_press,test
+0355,penn,bench_press,val
+0356,penn,bench_press,train
+0357,penn,bench_press,train
+0358,penn,bench_press,train
+0359,penn,bench_press,train
+0360,penn,bench_press,train
+0361,penn,bench_press,test
+0362,penn,bench_press,val
+0363,penn,bench_press,train
+0364,penn,bench_press,train
+0365,penn,bench_press,train
+0366,penn,bench_press,train
+0367,penn,bench_press,train
+0368,penn,bench_press,test
+0369,penn,bench_press,val
+0370,penn,bench_press,train
+0371,penn,bench_press,train
+0372,penn,bench_press,train
+0373,penn,bench_press,train
+0374,penn,bench_press,train
+0375,penn,bench_press,test
+0376,penn,bench_press,test
+0377,penn,bench_press,train
+0378,penn,bench_press,val
+0379,penn,bench_press,train
+0380,penn,bench_press,train
+0381,penn,bench_press,train
+0382,penn,bench_press,train
+0383,penn,bench_press,train
+0384,penn,bench_press,train
+0385,penn,bench_press,val
+0386,penn,bench_press,train
+0387,penn,bench_press,test
+0388,penn,bench_press,train
+0389,penn,bench_press,train
+0390,penn,bench_press,test
+0391,penn,bench_press,train
+0392,penn,bench_press,train
+0393,penn,bench_press,train
+0394,penn,bench_press,train
+0395,penn,bench_press,train
+0396,penn,bench_press,test
+0397,penn,bench_press,val
+0398,penn,bench_press,train
+0399,penn,bench_press,train
+0400,penn,bench_press,train
+0401,penn,bench_press,val
+0402,penn,bench_press,test
+0403,penn,bench_press,train
+0404,penn,bench_press,train
+0405,penn,bench_press,train
+0406,penn,bench_press,train
+0407,penn,bench_press,val
+0408,penn,bench_press,train
+0409,penn,bench_press,train
+0410,penn,bench_press,train
+0411,penn,bench_press,train
+0412,penn,bench_press,train
+0413,penn,bench_press,test
+0414,penn,bench_press,train
+0415,penn,bench_press,train
+0416,penn,bench_press,train
+0417,penn,bench_press,val
+0418,penn,bench_press,test
+0419,penn,bench_press,train
+0420,penn,bench_press,train
+0421,penn,bench_press,val
+0422,penn,bench_press,train
+0423,penn,bench_press,train
+0424,penn,bench_press,train
+0425,penn,bench_press,train
+0426,penn,bench_press,test
+0427,penn,bench_press,train
+0428,penn,bench_press,val
+0429,penn,bench_press,train
+0430,penn,bench_press,train
+0431,penn,bench_press,train
+0432,penn,bench_press,train
+0433,penn,bench_press,test
+0434,penn,bench_press,train
+0435,penn,bench_press,train
+0436,penn,bench_press,val
+0437,penn,bench_press,train
+0438,penn,bench_press,train
+0439,penn,bench_press,train
+0440,penn,bench_press,train
+0441,penn,bench_press,train
+0442,penn,bench_press,val
+0443,penn,bench_press,test
+0444,penn,bench_press,train
+0445,penn,bench_press,train
+0446,penn,bench_press,test
+0447,penn,bench_press,train
+0448,penn,bench_press,train
+0449,penn,bench_press,val
+0450,penn,bench_press,train
+0451,penn,bench_press,train
+0452,penn,bench_press,train
+0453,penn,bench_press,train
+0454,penn,bench_press,train
+0455,penn,bench_press,test
+0456,penn,bench_press,train
+0457,penn,bench_press,val
+0458,penn,bench_press,train
+0459,penn,bench_press,test
+0460,penn,bench_press,train
+0461,penn,bench_press,train
+0462,penn,bench_press,train
+0463,penn,bench_press,train
+0464,penn,bench_press,val
+0465,penn,bench_press,train
+0466,penn,bench_press,train
+0467,penn,bench_press,train
+0468,penn,bench_press,train
+0469,penn,bench_press,train
+0470,penn,bench_press,test
+0471,penn,bench_press,val
+0472,penn,bench_press,train
+0473,penn,bench_press,train
+0474,penn,bench_press,train
+0475,penn,bench_press,test
+0476,penn,bench_press,train
+0477,penn,bench_press,train
+0478,penn,bench_press,train
+0479,penn,bench_press,val
+0480,penn,bench_press,train
+0701,penn,clean_and_jerk,train
+0702,penn,clean_and_jerk,train
+0703,penn,clean_and_jerk,test
+0704,penn,clean_and_jerk,train
+0705,penn,clean_and_jerk,train
+0706,penn,clean_and_jerk,train
+0707,penn,clean_and_jerk,train
+0708,penn,clean_and_jerk,test
+0709,penn,clean_and_jerk,train
+0710,penn,clean_and_jerk,val
+0711,penn,clean_and_jerk,train
+0712,penn,clean_and_jerk,train
+0713,penn,clean_and_jerk,train
+0714,penn,clean_and_jerk,train
+0715,penn,clean_and_jerk,val
+0716,penn,clean_and_jerk,test
+0717,penn,clean_and_jerk,train
+0718,penn,clean_and_jerk,train
+0719,penn,clean_and_jerk,train
+0720,penn,clean_and_jerk,val
+0721,penn,clean_and_jerk,train
+0722,penn,clean_and_jerk,train
+0723,penn,clean_and_jerk,train
+0724,penn,clean_and_jerk,train
+0725,penn,clean_and_jerk,train
+0726,penn,clean_and_jerk,test
+0727,penn,clean_and_jerk,train
+0728,penn,clean_and_jerk,train
+0729,penn,clean_and_jerk,val
+0730,penn,clean_and_jerk,train
+0731,penn,clean_and_jerk,train
+0732,penn,clean_and_jerk,train
+0733,penn,clean_and_jerk,val
+0734,penn,clean_and_jerk,test
+0735,penn,clean_and_jerk,train
+0736,penn,clean_and_jerk,train
+0737,penn,clean_and_jerk,train
+0738,penn,clean_and_jerk,train
+0739,penn,clean_and_jerk,train
+0740,penn,clean_and_jerk,test
+0741,penn,clean_and_jerk,train
+0742,penn,clean_and_jerk,train
+0743,penn,clean_and_jerk,test
+0744,penn,clean_and_jerk,val
+0745,penn,clean_and_jerk,train
+0746,penn,clean_and_jerk,train
+0747,penn,clean_and_jerk,train
+0748,penn,clean_and_jerk,train
+0749,penn,clean_and_jerk,train
+0750,penn,clean_and_jerk,val
+0751,penn,clean_and_jerk,train
+0752,penn,clean_and_jerk,train
+0753,penn,clean_and_jerk,test
+0754,penn,clean_and_jerk,train
+0755,penn,clean_and_jerk,train
+0756,penn,clean_and_jerk,train
+0757,penn,clean_and_jerk,test
+0758,penn,clean_and_jerk,val
+0759,penn,clean_and_jerk,train
+0760,penn,clean_and_jerk,train
+0761,penn,clean_and_jerk,train
+0762,penn,clean_and_jerk,train
+0763,penn,clean_and_jerk,test
+0764,penn,clean_and_jerk,train
+0765,penn,clean_and_jerk,train
+0766,penn,clean_and_jerk,val
+0767,penn,clean_and_jerk,train
+0768,penn,clean_and_jerk,test
+0769,penn,clean_and_jerk,train
+0770,penn,clean_and_jerk,train
+0771,penn,clean_and_jerk,train
+0772,penn,clean_and_jerk,val
+0773,penn,clean_and_jerk,train
+0774,penn,clean_and_jerk,train
+0775,penn,clean_and_jerk,train
+0776,penn,clean_and_jerk,train
+0777,penn,clean_and_jerk,train
+0778,penn,clean_and_jerk,train
+0779,penn,clean_and_jerk,val
+0780,penn,clean_and_jerk,train
+0781,penn,clean_and_jerk,train
+0782,penn,clean_and_jerk,train
+0783,penn,clean_and_jerk,test
+0784,penn,clean_and_jerk,train
+0785,penn,clean_and_jerk,train
+0786,penn,clean_and_jerk,val
+0787,penn,clean_and_jerk,train
+0788,penn,clean_and_jerk,train
+0955,penn,jump_rope,test
+0956,penn,jump_rope,train
+0957,penn,jump_rope,train
+0958,penn,jump_rope,val
+0959,penn,jump_rope,train
+0960,penn,jump_rope,train
+0961,penn,jump_rope,train
+0962,penn,jump_rope,train
+0963,penn,jump_rope,train
+0964,penn,jump_rope,test
+0965,penn,jump_rope,train
+0966,penn,jump_rope,val
+0967,penn,jump_rope,val
+0968,penn,jump_rope,train
+0969,penn,jump_rope,train
+0970,penn,jump_rope,train
+0971,penn,jump_rope,test
+0972,penn,jump_rope,train
+0973,penn,jump_rope,train
+0974,penn,jump_rope,val
+0975,penn,jump_rope,train
+0976,penn,jump_rope,test
+0977,penn,jump_rope,train
+0978,penn,jump_rope,train
+0979,penn,jump_rope,val
+0980,penn,jump_rope,train
+0981,penn,jump_rope,train
+0982,penn,jump_rope,train
+0983,penn,jump_rope,train
+0984,penn,jump_rope,train
+0985,penn,jump_rope,train
+0986,penn,jump_rope,train
+0987,penn,jump_rope,test
+0988,penn,jump_rope,train
+0989,penn,jump_rope,val
+0990,penn,jump_rope,train
+0991,penn,jump_rope,val
+0992,penn,jump_rope,train
+0993,penn,jump_rope,train
+0994,penn,jump_rope,test
+0995,penn,jump_rope,test
+0996,penn,jump_rope,train
+0997,penn,jump_rope,train
+0998,penn,jump_rope,train
+0999,penn,jump_rope,train
+1000,penn,jump_rope,train
+1001,penn,jump_rope,train
+1002,penn,jump_rope,train
+1003,penn,jump_rope,train
+1004,penn,jump_rope,val
+1005,penn,jump_rope,train
+1006,penn,jump_rope,train
+1007,penn,jump_rope,test
+1008,penn,jump_rope,train
+1009,penn,jump_rope,val
+1010,penn,jump_rope,train
+1011,penn,jump_rope,val
+1012,penn,jump_rope,test
+1013,penn,jump_rope,train
+1014,penn,jump_rope,train
+1015,penn,jump_rope,train
+1016,penn,jump_rope,train
+1017,penn,jump_rope,train
+1018,penn,jump_rope,train
+1019,penn,jump_rope,val
+1020,penn,jump_rope,test
+1021,penn,jump_rope,train
+1022,penn,jump_rope,test
+1023,penn,jump_rope,train
+1024,penn,jump_rope,train
+1025,penn,jump_rope,train
+1026,penn,jump_rope,train
+1027,penn,jump_rope,train
+1028,penn,jump_rope,test
+1029,penn,jump_rope,train
+1030,penn,jump_rope,train
+1031,penn,jump_rope,val
+1032,penn,jump_rope,train
+1033,penn,jump_rope,test
+1034,penn,jump_rope,train
+1035,penn,jump_rope,train
+1036,penn,jump_rope,val
+1037,penn,jumping_jacks,train
+1038,penn,jumping_jacks,train
+1039,penn,jumping_jacks,train
+1040,penn,jumping_jacks,train
+1041,penn,jumping_jacks,train
+1042,penn,jumping_jacks,train
+1043,penn,jumping_jacks,train
+1044,penn,jumping_jacks,test
+1045,penn,jumping_jacks,val
+1046,penn,jumping_jacks,val
+1047,penn,jumping_jacks,train
+1048,penn,jumping_jacks,train
+1049,penn,jumping_jacks,test
+1050,penn,jumping_jacks,train
+1051,penn,jumping_jacks,train
+1052,penn,jumping_jacks,train
+1053,penn,jumping_jacks,train
+1054,penn,jumping_jacks,train
+1055,penn,jumping_jacks,train
+1056,penn,jumping_jacks,train
+1057,penn,jumping_jacks,train
+1058,penn,jumping_jacks,test
+1059,penn,jumping_jacks,train
+1060,penn,jumping_jacks,test
+1061,penn,jumping_jacks,val
+1062,penn,jumping_jacks,train
+1063,penn,jumping_jacks,train
+1064,penn,jumping_jacks,train
+1065,penn,jumping_jacks,train
+1066,penn,jumping_jacks,val
+1067,penn,jumping_jacks,train
+1068,penn,jumping_jacks,train
+1069,penn,jumping_jacks,train
+1070,penn,jumping_jacks,train
+1071,penn,jumping_jacks,train
+1072,penn,jumping_jacks,test
+1073,penn,jumping_jacks,val
+1074,penn,jumping_jacks,train
+1075,penn,jumping_jacks,train
+1076,penn,jumping_jacks,train
+1077,penn,jumping_jacks,train
+1078,penn,jumping_jacks,train
+1079,penn,jumping_jacks,train
+1080,penn,jumping_jacks,val
+1081,penn,jumping_jacks,test
+1082,penn,jumping_jacks,train
+1083,penn,jumping_jacks,test
+1084,penn,jumping_jacks,train
+1085,penn,jumping_jacks,train
+1086,penn,jumping_jacks,train
+1087,penn,jumping_jacks,val
+1088,penn,jumping_jacks,train
+1089,penn,jumping_jacks,train
+1090,penn,jumping_jacks,train
+1091,penn,jumping_jacks,train
+1092,penn,jumping_jacks,train
+1093,penn,jumping_jacks,train
+1094,penn,jumping_jacks,train
+1095,penn,jumping_jacks,train
+1096,penn,jumping_jacks,test
+1097,penn,jumping_jacks,test
+1098,penn,jumping_jacks,val
+1099,penn,jumping_jacks,train
+1100,penn,jumping_jacks,train
+1101,penn,jumping_jacks,train
+1102,penn,jumping_jacks,val
+1103,penn,jumping_jacks,train
+1104,penn,jumping_jacks,val
+1105,penn,jumping_jacks,train
+1106,penn,jumping_jacks,train
+1107,penn,jumping_jacks,val
+1108,penn,jumping_jacks,train
+1109,penn,jumping_jacks,train
+1110,penn,jumping_jacks,test
+1111,penn,jumping_jacks,train
+1112,penn,jumping_jacks,train
+1113,penn,jumping_jacks,train
+1114,penn,jumping_jacks,train
+1115,penn,jumping_jacks,train
+1116,penn,jumping_jacks,test
+1117,penn,jumping_jacks,train
+1118,penn,jumping_jacks,train
+1119,penn,jumping_jacks,train
+1120,penn,jumping_jacks,val
+1121,penn,jumping_jacks,train
+1122,penn,jumping_jacks,test
+1123,penn,jumping_jacks,train
+1124,penn,jumping_jacks,train
+1125,penn,jumping_jacks,train
+1126,penn,jumping_jacks,train
+1127,penn,jumping_jacks,train
+1128,penn,jumping_jacks,val
+1129,penn,jumping_jacks,train
+1130,penn,jumping_jacks,train
+1131,penn,jumping_jacks,train
+1132,penn,jumping_jacks,train
+1133,penn,jumping_jacks,train
+1134,penn,jumping_jacks,train
+1135,penn,jumping_jacks,val
+1136,penn,jumping_jacks,test
+1137,penn,jumping_jacks,train
+1138,penn,jumping_jacks,train
+1139,penn,jumping_jacks,train
+1140,penn,jumping_jacks,train
+1141,penn,jumping_jacks,test
+1142,penn,jumping_jacks,train
+1143,penn,jumping_jacks,train
+1144,penn,jumping_jacks,train
+1145,penn,jumping_jacks,val
+1146,penn,jumping_jacks,train
+1147,penn,jumping_jacks,test
+1148,penn,jumping_jacks,train
+1149,penn,pullup,train
+1150,penn,pullup,train
+1151,penn,pullup,val
+1152,penn,pullup,train
+1153,penn,pullup,train
+1154,penn,pullup,test
+1155,penn,pullup,train
+1156,penn,pullup,train
+1157,penn,pullup,train
+1158,penn,pullup,train
+1159,penn,pullup,train
+1160,penn,pullup,test
+1161,penn,pullup,val
+1162,penn,pullup,train
+1163,penn,pullup,train
+1164,penn,pullup,val
+1165,penn,pullup,val
+1166,penn,pullup,train
+1167,penn,pullup,train
+1168,penn,pullup,train
+1169,penn,pullup,test
+1170,penn,pullup,train
+1171,penn,pullup,train
+1172,penn,pullup,train
+1173,penn,pullup,train
+1174,penn,pullup,train
+1175,penn,pullup,test
+1176,penn,pullup,train
+1177,penn,pullup,val
+1178,penn,pullup,train
+1179,penn,pullup,train
+1180,penn,pullup,train
+1181,penn,pullup,train
+1182,penn,pullup,train
+1183,penn,pullup,train
+1184,penn,pullup,test
+1185,penn,pullup,train
+1186,penn,pullup,train
+1187,penn,pullup,train
+1188,penn,pullup,test
+1189,penn,pullup,val
+1190,penn,pullup,train
+1191,penn,pullup,test
+1192,penn,pullup,train
+1193,penn,pullup,val
+1194,penn,pullup,train
+1195,penn,pullup,train
+1196,penn,pullup,train
+1197,penn,pullup,val
+1198,penn,pullup,train
+1199,penn,pullup,train
+1200,penn,pullup,train
+1201,penn,pullup,test
+1202,penn,pullup,test
+1203,penn,pullup,train
+1204,penn,pullup,train
+1205,penn,pullup,val
+1206,penn,pullup,test
+1207,penn,pullup,train
+1208,penn,pullup,train
+1209,penn,pullup,train
+1210,penn,pullup,test
+1211,penn,pullup,train
+1212,penn,pullup,train
+1213,penn,pullup,val
+1214,penn,pullup,train
+1215,penn,pullup,train
+1216,penn,pullup,train
+1217,penn,pullup,train
+1218,penn,pullup,train
+1219,penn,pullup,train
+1220,penn,pullup,train
+1221,penn,pullup,train
+1222,penn,pullup,val
+1223,penn,pullup,train
+1224,penn,pullup,train
+1225,penn,pullup,test
+1226,penn,pullup,train
+1227,penn,pullup,train
+1228,penn,pullup,train
+1229,penn,pullup,train
+1230,penn,pullup,val
+1231,penn,pullup,train
+1232,penn,pullup,train
+1233,penn,pullup,test
+1234,penn,pullup,train
+1235,penn,pullup,train
+1236,penn,pullup,val
+1237,penn,pullup,train
+1238,penn,pullup,train
+1239,penn,pullup,train
+1240,penn,pullup,train
+1241,penn,pullup,test
+1242,penn,pullup,train
+1243,penn,pullup,train
+1244,penn,pullup,val
+1245,penn,pullup,train
+1246,penn,pullup,test
+1247,penn,pullup,train
+1248,penn,pullup,val
+1249,penn,pullup,train
+1250,penn,pullup,train
+1251,penn,pullup,train
+1252,penn,pullup,train
+1253,penn,pullup,test
+1254,penn,pullup,train
+1255,penn,pullup,train
+1256,penn,pullup,train
+1257,penn,pullup,val
+1258,penn,pullup,test
+1259,penn,pullup,train
+1260,penn,pullup,train
+1261,penn,pullup,train
+1262,penn,pullup,train
+1263,penn,pullup,train
+1264,penn,pullup,val
+1265,penn,pullup,train
+1266,penn,pullup,train
+1267,penn,pullup,test
+1268,penn,pullup,train
+1269,penn,pullup,train
+1270,penn,pullup,train
+1271,penn,pullup,val
+1272,penn,pullup,train
+1273,penn,pullup,train
+1274,penn,pullup,train
+1275,penn,pullup,train
+1276,penn,pullup,test
+1277,penn,pullup,train
+1278,penn,pullup,val
+1279,penn,pullup,train
+1280,penn,pullup,train
+1281,penn,pullup,train
+1282,penn,pullup,test
+1283,penn,pullup,val
+1284,penn,pullup,train
+1285,penn,pullup,train
+1286,penn,pullup,train
+1287,penn,pullup,train
+1288,penn,pullup,test
+1289,penn,pullup,train
+1290,penn,pullup,train
+1291,penn,pullup,val
+1292,penn,pullup,train
+1293,penn,pullup,train
+1294,penn,pullup,train
+1295,penn,pullup,val
+1296,penn,pullup,train
+1297,penn,pullup,test
+1298,penn,pullup,train
+1299,penn,pullup,train
+1300,penn,pullup,train
+1301,penn,pullup,train
+1302,penn,pullup,train
+1303,penn,pullup,train
+1304,penn,pullup,train
+1305,penn,pullup,test
+1306,penn,pullup,train
+1307,penn,pullup,train
+1308,penn,pullup,val
+1309,penn,pullup,train
+1310,penn,pullup,train
+1311,penn,pullup,train
+1312,penn,pullup,train
+1313,penn,pullup,train
+1314,penn,pullup,test
+1315,penn,pullup,val
+1316,penn,pullup,train
+1317,penn,pullup,train
+1318,penn,pullup,train
+1319,penn,pullup,test
+1320,penn,pullup,test
+1321,penn,pullup,train
+1322,penn,pullup,train
+1323,penn,pullup,train
+1324,penn,pullup,train
+1325,penn,pullup,train
+1326,penn,pullup,train
+1327,penn,pullup,train
+1328,penn,pullup,val
+1329,penn,pullup,train
+1330,penn,pullup,train
+1331,penn,pullup,val
+1332,penn,pullup,test
+1333,penn,pullup,val
+1334,penn,pullup,train
+1335,penn,pullup,val
+1336,penn,pullup,train
+1337,penn,pullup,test
+1338,penn,pullup,train
+1339,penn,pullup,train
+1340,penn,pullup,train
+1341,penn,pullup,train
+1342,penn,pullup,train
+1343,penn,pullup,train
+1344,penn,pullup,train
+1345,penn,pullup,test
+1346,penn,pullup,train
+1347,penn,pullup,train
+1348,penn,pushup,train
+1349,penn,pushup,val
+1350,penn,pushup,train
+1351,penn,pushup,test
+1352,penn,pushup,train
+1353,penn,pushup,val
+1354,penn,pushup,train
+1355,penn,pushup,val
+1356,penn,pushup,train
+1357,penn,pushup,train
+1358,penn,pushup,train
+1359,penn,pushup,train
+1360,penn,pushup,train
+1361,penn,pushup,train
+1362,penn,pushup,train
+1363,penn,pushup,train
+1364,penn,pushup,test
+1365,penn,pushup,test
+1366,penn,pushup,test
+1367,penn,pushup,train
+1368,penn,pushup,val
+1369,penn,pushup,train
+1370,penn,pushup,train
+1371,penn,pushup,train
+1372,penn,pushup,train
+1373,penn,pushup,val
+1374,penn,pushup,train
+1375,penn,pushup,train
+1376,penn,pushup,val
+1377,penn,pushup,test
+1378,penn,pushup,train
+1379,penn,pushup,val
+1380,penn,pushup,train
+1381,penn,pushup,train
+1382,penn,pushup,val
+1383,penn,pushup,train
+1384,penn,pushup,train
+1385,penn,pushup,train
+1386,penn,pushup,train
+1387,penn,pushup,train
+1388,penn,pushup,train
+1389,penn,pushup,test
+1390,penn,pushup,train
+1391,penn,pushup,test
+1392,penn,pushup,train
+1393,penn,pushup,train
+1394,penn,pushup,train
+1395,penn,pushup,train
+1396,penn,pushup,train
+1397,penn,pushup,train
+1398,penn,pushup,train
+1399,penn,pushup,train
+1400,penn,pushup,train
+1401,penn,pushup,test
+1402,penn,pushup,val
+1403,penn,pushup,train
+1404,penn,pushup,val
+1405,penn,pushup,train
+1406,penn,pushup,test
+1407,penn,pushup,train
+1408,penn,pushup,train
+1409,penn,pushup,val
+1410,penn,pushup,train
+1411,penn,pushup,train
+1412,penn,pushup,train
+1413,penn,pushup,test
+1414,penn,pushup,train
+1415,penn,pushup,train
+1416,penn,pushup,train
+1417,penn,pushup,train
+1418,penn,pushup,train
+1419,penn,pushup,train
+1420,penn,pushup,val
+1421,penn,pushup,test
+1422,penn,pushup,train
+1423,penn,pushup,train
+1424,penn,pushup,train
+1425,penn,pushup,train
+1426,penn,pushup,test
+1427,penn,pushup,train
+1428,penn,pushup,train
+1429,penn,pushup,train
+1430,penn,pushup,val
+1431,penn,pushup,train
+1432,penn,pushup,test
+1433,penn,pushup,train
+1434,penn,pushup,train
+1435,penn,pushup,train
+1436,penn,pushup,train
+1437,penn,pushup,train
+1438,penn,pushup,val
+1439,penn,pushup,train
+1440,penn,pushup,train
+1441,penn,pushup,train
+1442,penn,pushup,train
+1443,penn,pushup,test
+1444,penn,pushup,train
+1445,penn,pushup,val
+1446,penn,pushup,train
+1447,penn,pushup,test
+1448,penn,pushup,train
+1449,penn,pushup,train
+1450,penn,pushup,train
+1451,penn,pushup,train
+1452,penn,pushup,train
+1453,penn,pushup,val
+1454,penn,pushup,train
+1455,penn,pushup,train
+1456,penn,pushup,train
+1457,penn,pushup,test
+1458,penn,pushup,train
+1459,penn,pushup,train
+1460,penn,pushup,val
+1461,penn,pushup,train
+1462,penn,pushup,test
+1463,penn,pushup,train
+1464,penn,pushup,train
+1465,penn,pushup,train
+1466,penn,pushup,val
+1467,penn,pushup,test
+1468,penn,pushup,train
+1469,penn,pushup,train
+1470,penn,pushup,train
+1471,penn,pushup,train
+1472,penn,pushup,train
+1473,penn,pushup,val
+1474,penn,pushup,train
+1475,penn,pushup,train
+1476,penn,pushup,train
+1477,penn,pushup,test
+1478,penn,pushup,train
+1479,penn,pushup,train
+1480,penn,pushup,train
+1481,penn,pushup,train
+1482,penn,pushup,val
+1483,penn,pushup,train
+1484,penn,pushup,train
+1485,penn,pushup,test
+1486,penn,pushup,val
+1487,penn,pushup,train
+1488,penn,pushup,train
+1489,penn,pushup,train
+1490,penn,pushup,test
+1491,penn,pushup,train
+1492,penn,pushup,train
+1493,penn,pushup,train
+1494,penn,pushup,val
+1495,penn,pushup,train
+1496,penn,pushup,train
+1497,penn,pushup,train
+1498,penn,pushup,test
+1499,penn,pushup,val
+1500,penn,pushup,train
+1501,penn,pushup,train
+1502,penn,pushup,train
+1503,penn,pushup,train
+1504,penn,pushup,train
+1505,penn,pushup,train
+1506,penn,pushup,test
+1507,penn,pushup,train
+1508,penn,pushup,val
+1509,penn,pushup,train
+1510,penn,pushup,train
+1511,penn,pushup,train
+1512,penn,pushup,train
+1513,penn,pushup,train
+1514,penn,pushup,train
+1515,penn,pushup,test
+1516,penn,pushup,train
+1517,penn,pushup,val
+1518,penn,pushup,train
+1519,penn,pushup,train
+1520,penn,pushup,test
+1521,penn,pushup,train
+1522,penn,pushup,train
+1523,penn,pushup,val
+1524,penn,pushup,test
+1525,penn,pushup,val
+1526,penn,pushup,train
+1527,penn,pushup,train
+1528,penn,pushup,train
+1529,penn,pushup,train
+1530,penn,pushup,test
+1531,penn,pushup,train
+1532,penn,pushup,train
+1533,penn,pushup,train
+1534,penn,pushup,train
+1535,penn,pushup,train
+1536,penn,pushup,train
+1537,penn,pushup,test
+1538,penn,pushup,train
+1539,penn,pushup,val
+1540,penn,pushup,train
+1541,penn,pushup,train
+1542,penn,pushup,train
+1543,penn,pushup,val
+1544,penn,pushup,train
+1545,penn,pushup,train
+1546,penn,pushup,train
+1547,penn,pushup,train
+1548,penn,pushup,train
+1549,penn,pushup,train
+1550,penn,pushup,train
+1551,penn,pushup,test
+1552,penn,pushup,train
+1553,penn,pushup,test
+1554,penn,pushup,train
+1555,penn,pushup,val
+1556,penn,pushup,train
+1557,penn,pushup,train
+1558,penn,pushup,train
+1559,penn,situp,train
+1560,penn,situp,val
+1561,penn,situp,train
+1562,penn,situp,test
+1563,penn,situp,train
+1564,penn,situp,train
+1565,penn,situp,train
+1566,penn,situp,val
+1567,penn,situp,test
+1568,penn,situp,train
+1569,penn,situp,train
+1570,penn,situp,train
+1571,penn,situp,train
+1572,penn,situp,train
+1573,penn,situp,train
+1574,penn,situp,test
+1575,penn,situp,train
+1576,penn,situp,train
+1577,penn,situp,val
+1578,penn,situp,train
+1579,penn,situp,train
+1580,penn,situp,train
+1581,penn,situp,val
+1582,penn,situp,train
+1583,penn,situp,test
+1584,penn,situp,train
+1585,penn,situp,train
+1586,penn,situp,train
+1587,penn,situp,train
+1588,penn,situp,train
+1589,penn,situp,train
+1590,penn,situp,test
+1591,penn,situp,train
+1592,penn,situp,val
+1593,penn,situp,train
+1594,penn,situp,train
+1595,penn,situp,train
+1596,penn,situp,val
+1597,penn,situp,train
+1598,penn,situp,val
+1599,penn,situp,train
+1600,penn,situp,train
+1601,penn,situp,train
+1602,penn,situp,test
+1603,penn,situp,train
+1604,penn,situp,test
+1605,penn,situp,test
+1606,penn,situp,train
+1607,penn,situp,train
+1608,penn,situp,val
+1609,penn,situp,train
+1610,penn,situp,train
+1611,penn,situp,train
+1612,penn,situp,train
+1613,penn,situp,train
+1614,penn,situp,train
+1615,penn,situp,train
+1616,penn,situp,train
+1617,penn,situp,val
+1618,penn,situp,train
+1619,penn,situp,train
+1620,penn,situp,test
+1621,penn,situp,train
+1622,penn,situp,val
+1623,penn,situp,train
+1624,penn,situp,train
+1625,penn,situp,val
+1626,penn,situp,test
+1627,penn,situp,train
+1628,penn,situp,train
+1629,penn,situp,train
+1630,penn,situp,train
+1631,penn,situp,train
+1632,penn,situp,train
+1633,penn,situp,train
+1634,penn,situp,train
+1635,penn,situp,test
+1636,penn,situp,val
+1637,penn,situp,val
+1638,penn,situp,train
+1639,penn,situp,train
+1640,penn,situp,test
+1641,penn,situp,val
+1642,penn,situp,train
+1643,penn,situp,train
+1644,penn,situp,train
+1645,penn,situp,train
+1646,penn,situp,train
+1647,penn,situp,train
+1648,penn,situp,train
+1649,penn,situp,test
+1650,penn,situp,train
+1651,penn,situp,train
+1652,penn,situp,train
+1653,penn,situp,train
+1654,penn,situp,test
+1655,penn,situp,train
+1656,penn,situp,train
+1657,penn,situp,val
+1658,penn,situp,train
+1659,penn,squat,test
+1660,penn,squat,val
+1661,penn,squat,train
+1662,penn,squat,train
+1663,penn,squat,train
+1664,penn,squat,train
+1665,penn,squat,train
+1666,penn,squat,train
+1667,penn,squat,train
+1668,penn,squat,train
+1669,penn,squat,train
+1670,penn,squat,val
+1671,penn,squat,train
+1672,penn,squat,train
+1673,penn,squat,test
+1674,penn,squat,train
+1675,penn,squat,train
+1676,penn,squat,train
+1677,penn,squat,val
+1678,penn,squat,test
+1679,penn,squat,val
+1680,penn,squat,val
+1681,penn,squat,train
+1682,penn,squat,train
+1683,penn,squat,train
+1684,penn,squat,train
+1685,penn,squat,train
+1686,penn,squat,test
+1687,penn,squat,train
+1688,penn,squat,test
+1689,penn,squat,train
+1690,penn,squat,train
+1691,penn,squat,train
+1692,penn,squat,val
+1693,penn,squat,train
+1694,penn,squat,train
+1695,penn,squat,train
+1696,penn,squat,train
+1697,penn,squat,train
+1698,penn,squat,test
+1699,penn,squat,train
+1700,penn,squat,train
+1701,penn,squat,val
+1702,penn,squat,train
+1703,penn,squat,test
+1704,penn,squat,train
+1705,penn,squat,train
+1706,penn,squat,train
+1707,penn,squat,train
+1708,penn,squat,val
+1709,penn,squat,train
+1710,penn,squat,train
+1711,penn,squat,train
+1712,penn,squat,train
+1713,penn,squat,test
+1714,penn,squat,train
+1715,penn,squat,val
+1716,penn,squat,train
+1717,penn,squat,train
+1718,penn,squat,train
+1719,penn,squat,train
+1720,penn,squat,train
+1721,penn,squat,test
+1722,penn,squat,val
+1723,penn,squat,train
+1724,penn,squat,train
+1725,penn,squat,train
+1726,penn,squat,train
+1727,penn,squat,val
+1728,penn,squat,train
+1729,penn,squat,test
+1730,penn,squat,train
+1731,penn,squat,test
+1732,penn,squat,train
+1733,penn,squat,val
+1734,penn,squat,train
+1735,penn,squat,train
+1736,penn,squat,train
+1737,penn,squat,train
+1738,penn,squat,train
+1739,penn,squat,train
+1740,penn,squat,train
+1741,penn,squat,test
+1742,penn,squat,train
+1743,penn,squat,train
+1744,penn,squat,train
+1745,penn,squat,train
+1746,penn,squat,val
+1747,penn,squat,train
+1748,penn,squat,val
+1749,penn,squat,test
+1750,penn,squat,train
+1751,penn,squat,train
+1752,penn,squat,train
+1753,penn,squat,train
+1754,penn,squat,train
+1755,penn,squat,train
+1756,penn,squat,train
+1757,penn,squat,test
+1758,penn,squat,val
+1759,penn,squat,val
+1760,penn,squat,train
+1761,penn,squat,train
+1762,penn,squat,train
+1763,penn,squat,test
+1764,penn,squat,train
+1765,penn,squat,train
+1766,penn,squat,train
+1767,penn,squat,train
+1768,penn,squat,test
+1769,penn,squat,train
+1770,penn,squat,train
+1771,penn,squat,val
+1772,penn,squat,test
+1773,penn,squat,train
+1774,penn,squat,train
+1775,penn,squat,train
+1776,penn,squat,train
+1777,penn,squat,train
+1778,penn,squat,test
+1779,penn,squat,train
+1780,penn,squat,val
+1781,penn,squat,train
+1782,penn,squat,train
+1783,penn,squat,train
+1784,penn,squat,train
+1785,penn,squat,test
+1786,penn,squat,val
+1787,penn,squat,train
+1788,penn,squat,train
+1789,penn,squat,train
+1790,penn,squat,test
+1791,penn,squat,train
+1792,penn,squat,train
+1793,penn,squat,train
+1794,penn,squat,val
+1795,penn,squat,val
+1796,penn,squat,train
+1797,penn,squat,train
+1798,penn,squat,train
+1799,penn,squat,test
+1800,penn,squat,train
+1801,penn,squat,train
+1802,penn,squat,train
+1803,penn,squat,train
+1804,penn,squat,train
+1805,penn,squat,train
+1806,penn,squat,val
+1807,penn,squat,train
+1808,penn,squat,train
+1809,penn,squat,train
+1810,penn,squat,test
+1811,penn,squat,test
+1812,penn,squat,train
+1813,penn,squat,train
+1814,penn,squat,train
+1815,penn,squat,train
+1816,penn,squat,train
+1817,penn,squat,val
+1818,penn,squat,train
+1819,penn,squat,train
+1820,penn,squat,train
+1821,penn,squat,val
+1822,penn,squat,test
+1823,penn,squat,train
+1824,penn,squat,train
+1825,penn,squat,test
+1826,penn,squat,train
+1827,penn,squat,train
+1828,penn,squat,val
+1829,penn,squat,train
+1830,penn,squat,train
+1831,penn,squat,train
+1832,penn,squat,train
+1833,penn,squat,train
+1834,penn,squat,train
+1835,penn,squat,train
+1836,penn,squat,val
+1837,penn,squat,test
+1838,penn,squat,train
+1839,penn,squat,val
+1840,penn,squat,train
+1841,penn,squat,train
+1842,penn,squat,train
+1843,penn,squat,train
+1844,penn,squat,train
+1845,penn,squat,train
+1846,penn,squat,train
+1847,penn,squat,test
+1848,penn,squat,train
+1849,penn,squat,train
+1850,penn,squat,test
+1851,penn,squat,train
+1852,penn,squat,train
+1853,penn,squat,val
+1854,penn,squat,train
+1855,penn,squat,train
+1856,penn,squat,train
+1857,penn,squat,val
+1858,penn,squat,test
+1859,penn,squat,train
+1860,penn,squat,train
+1861,penn,squat,train
+1862,penn,squat,train
+1863,penn,squat,val
+1864,penn,squat,test
+1865,penn,squat,train
+1866,penn,squat,train
+1867,penn,squat,train
+1868,penn,squat,train
+1869,penn,squat,train
+1870,penn,squat,test
+1871,penn,squat,val
+1872,penn,squat,train
+1873,penn,squat,train
+1874,penn,squat,train
+1875,penn,squat,train
+1876,penn,squat,test
+1877,penn,squat,train
+1878,penn,squat,val
+1879,penn,squat,train
+1880,penn,squat,train
+1881,penn,squat,train
+1882,penn,squat,train
+1883,penn,squat,val
+1884,penn,squat,test
+1885,penn,squat,train
+1886,penn,squat,train
+1887,penn,squat,train
+1888,penn,squat,train
+1889,penn,squat,train
+leg raises_8,kaggle,leg_raises,train
+leg raises_17,kaggle,leg_raises,train
+leg raises_11,kaggle,leg_raises,test
+leg raises_14,kaggle,leg_raises,train
+leg raises_9,kaggle,leg_raises,test
+leg raises_19,kaggle,leg_raises,val
+leg raises_7,kaggle,leg_raises,train
+leg raises_10,kaggle,leg_raises,val
+leg raises_20,kaggle,leg_raises,train
+leg raises_21,kaggle,leg_raises,train
+leg raises_12,kaggle,leg_raises,train
+leg raises_13,kaggle,leg_raises,train
+leg raises_18,kaggle,leg_raises,test
+leg raises_15,kaggle,leg_raises,train
+leg raises_16,kaggle,leg_raises,train
+leg raises_2,kaggle,leg_raises,train
+leg raises_6,kaggle,leg_raises,train
+leg raises_4,kaggle,leg_raises,val
+leg raises_1,kaggle,leg_raises,train
+leg raises_5,kaggle,leg_raises,train
+leg raises_3,kaggle,leg_raises,train
+squat_21,kaggle,squat,val
+squat_23,kaggle,squat,train
+squat_29,kaggle,squat,test
+squat_7,kaggle,squat,test
+squat_10,kaggle,squat,train
+squat_22,kaggle,squat,train
+squat_9,kaggle,squat,train
+squat_18,kaggle,squat,train
+squat_13,kaggle,squat,val
+squat_24,kaggle,squat,train
+squat_11,kaggle,squat,train
+squat_8,kaggle,squat,val
+squat_16,kaggle,squat,test
+squat_26,kaggle,squat,train
+squat_28,kaggle,squat,train
+squat_15,kaggle,squat,train
+squat_17,kaggle,squat,train
+squat_20,kaggle,squat,train
+squat_19,kaggle,squat,train
+squat_25,kaggle,squat,train
+squat_12,kaggle,squat,train
+squat_27,kaggle,squat,train
+squat_14,kaggle,squat,train
+squat_3,kaggle,squat,train
+squat_4,kaggle,squat,train
+squat_6,kaggle,squat,val
+squat_5,kaggle,squat,train
+squat_2,kaggle,squat,test
+squat_1,kaggle,squat,train
+barbell biceps curl_17,kaggle,bicep_curl,val
+barbell biceps curl_51,kaggle,bicep_curl,train
+barbell biceps curl_21,kaggle,bicep_curl,test
+barbell biceps curl_15,kaggle,bicep_curl,test
+barbell biceps curl_14,kaggle,bicep_curl,val
+barbell biceps curl_25,kaggle,bicep_curl,train
+barbell biceps curl_9,kaggle,bicep_curl,train
+barbell biceps curl_27,kaggle,bicep_curl,train
+barbell biceps curl_34,kaggle,bicep_curl,train
+barbell biceps curl_29,kaggle,bicep_curl,train
+barbell biceps curl_59,kaggle,bicep_curl,train
+barbell biceps curl_1,kaggle,bicep_curl,train
+barbell biceps curl_49,kaggle,bicep_curl,train
+barbell biceps curl_6,kaggle,bicep_curl,train
+barbell biceps curl_19,kaggle,bicep_curl,train
+barbell biceps curl_43,kaggle,bicep_curl,test
+barbell biceps curl_26,kaggle,bicep_curl,val
+barbell biceps curl_12,kaggle,bicep_curl,train
+barbell biceps curl_24,kaggle,bicep_curl,train
+barbell biceps curl_8,kaggle,bicep_curl,train
+barbell biceps curl_10,kaggle,bicep_curl,test
+barbell biceps curl_13,kaggle,bicep_curl,train
+barbell biceps curl_35,kaggle,bicep_curl,train
+barbell biceps curl_52,kaggle,bicep_curl,train
+barbell biceps curl_40,kaggle,bicep_curl,train
+barbell biceps curl_32,kaggle,bicep_curl,train
+barbell biceps curl_47,kaggle,bicep_curl,val
+barbell biceps curl_57,kaggle,bicep_curl,train
+barbell biceps curl_41,kaggle,bicep_curl,val
+barbell biceps curl_54,kaggle,bicep_curl,train
+barbell biceps curl_50,kaggle,bicep_curl,train
+barbell biceps curl_3,kaggle,bicep_curl,train
+barbell biceps curl_61,kaggle,bicep_curl,test
+barbell biceps curl_56,kaggle,bicep_curl,val
+barbell biceps curl_48,kaggle,bicep_curl,test
+barbell biceps curl_53,kaggle,bicep_curl,train
+barbell biceps curl_4,kaggle,bicep_curl,train
+barbell biceps curl_31,kaggle,bicep_curl,train
+barbell biceps curl_30,kaggle,bicep_curl,val
+barbell biceps curl_5,kaggle,bicep_curl,train
+barbell biceps curl_7,kaggle,bicep_curl,train
+barbell biceps curl_46,kaggle,bicep_curl,train
+barbell biceps curl_18,kaggle,bicep_curl,train
+barbell biceps curl_23,kaggle,bicep_curl,train
+barbell biceps curl_42,kaggle,bicep_curl,train
+barbell biceps curl_16,kaggle,bicep_curl,train
+barbell biceps curl_45,kaggle,bicep_curl,train
+barbell biceps curl_37,kaggle,bicep_curl,test
+barbell biceps curl_60,kaggle,bicep_curl,train
+barbell biceps curl_38,kaggle,bicep_curl,val
+barbell biceps curl_20,kaggle,bicep_curl,train
+barbell biceps curl_58,kaggle,bicep_curl,train
+barbell biceps curl_55,kaggle,bicep_curl,test
+barbell biceps curl_36,kaggle,bicep_curl,train
+barbell biceps curl_62,kaggle,bicep_curl,val
+barbell biceps curl_11,kaggle,bicep_curl,train
+barbell biceps curl_22,kaggle,bicep_curl,train
+barbell biceps curl_44,kaggle,bicep_curl,train
+barbell biceps curl_2,kaggle,bicep_curl,train
+barbell biceps curl_39,kaggle,bicep_curl,train
+barbell biceps curl_28,kaggle,bicep_curl,test
+barbell biceps curl_33,kaggle,bicep_curl,train
+chest fly machine_27,kaggle,chest_fly,train
+chest fly machine_16,kaggle,chest_fly,test
+chest fly machine_17,kaggle,chest_fly,train
+chest fly machine_13,kaggle,chest_fly,val
+chest fly machine_22,kaggle,chest_fly,val
+chest fly machine_23,kaggle,chest_fly,train
+chest fly machine_11,kaggle,chest_fly,train
+chest fly machine_20,kaggle,chest_fly,test
+chest fly machine_14,kaggle,chest_fly,train
+chest fly machine_5,kaggle,chest_fly,val
+chest fly machine_9,kaggle,chest_fly,train
+chest fly machine_26,kaggle,chest_fly,val
+chest fly machine_28,kaggle,chest_fly,train
+chest fly machine_21,kaggle,chest_fly,train
+chest fly machine_15,kaggle,chest_fly,train
+chest fly machine_4,kaggle,chest_fly,train
+chest fly machine_18,kaggle,chest_fly,train
+chest fly machine_25,kaggle,chest_fly,train
+chest fly machine_1,kaggle,chest_fly,train
+chest fly machine_6,kaggle,chest_fly,test
+chest fly machine_7,kaggle,chest_fly,train
+chest fly machine_3,kaggle,chest_fly,train
+chest fly machine_19,kaggle,chest_fly,train
+chest fly machine_24,kaggle,chest_fly,train
+chest fly machine_12,kaggle,chest_fly,train
+chest fly machine_2,kaggle,chest_fly,train
+chest fly machine_10,kaggle,chest_fly,train
+chest fly machine_8,kaggle,chest_fly,train
+leg extension_17,kaggle,leg_extension,train
+leg extension_24,kaggle,leg_extension,train
+leg extension_23,kaggle,leg_extension,train
+leg extension_12,kaggle,leg_extension,train
+leg extension_22,kaggle,leg_extension,train
+leg extension_18,kaggle,leg_extension,train
+leg extension_21,kaggle,leg_extension,train
+leg extension_13,kaggle,leg_extension,train
+leg extension_16,kaggle,leg_extension,train
+leg extension_19,kaggle,leg_extension,train
+leg extension_9,kaggle,leg_extension,val
+leg extension_20,kaggle,leg_extension,val
+leg extension_11,kaggle,leg_extension,train
+leg extension_8,kaggle,leg_extension,train
+leg extension_15,kaggle,leg_extension,val
+leg extension_10,kaggle,leg_extension,train
+leg extension_7,kaggle,leg_extension,train
+leg extension_25,kaggle,leg_extension,train
+leg extension_14,kaggle,leg_extension,test
+leg extension_3,kaggle,leg_extension,test
+leg extension_4,kaggle,leg_extension,train
+leg extension_6,kaggle,leg_extension,train
+leg extension_1,kaggle,leg_extension,train
+leg extension_5,kaggle,leg_extension,train
+leg extension_2,kaggle,leg_extension,test
+lateral raise_16,kaggle,lateral_raise,test
+lateral raise_23,kaggle,lateral_raise,test
+lateral raise_9,kaggle,lateral_raise,train
+lateral raise_24,kaggle,lateral_raise,train
+lateral raise_17,kaggle,lateral_raise,train
+lateral raise_20,kaggle,lateral_raise,val
+lateral raise_31,kaggle,lateral_raise,train
+lateral raise_10,kaggle,lateral_raise,train
+lateral raise_15,kaggle,lateral_raise,val
+lateral raise_37,kaggle,lateral_raise,val
+lateral raise_34,kaggle,lateral_raise,train
+lateral raise_11,kaggle,lateral_raise,train
+lateral raise_14,kaggle,lateral_raise,train
+lateral raise_19,kaggle,lateral_raise,train
+lateral raise_26,kaggle,lateral_raise,train
+lateral raise_18,kaggle,lateral_raise,train
+lateral raise_36,kaggle,lateral_raise,val
+lateral raise_35,kaggle,lateral_raise,test
+lateral raise_28,kaggle,lateral_raise,train
+lateral raise_27,kaggle,lateral_raise,test
+lateral raise_8,kaggle,lateral_raise,test
+lateral raise_30,kaggle,lateral_raise,train
+lateral raise_12,kaggle,lateral_raise,train
+lateral raise_22,kaggle,lateral_raise,train
+lateral raise_32,kaggle,lateral_raise,train
+lateral raise_29,kaggle,lateral_raise,train
+lateral raise_13,kaggle,lateral_raise,train
+lateral raise_33,kaggle,lateral_raise,train
+lateral raise_21,kaggle,lateral_raise,train
+lateral raise_7,kaggle,lateral_raise,train
+lateral raise_25,kaggle,lateral_raise,train
+lateral raise_3,kaggle,lateral_raise,train
+lateral raise_6,kaggle,lateral_raise,val
+lateral raise_1,kaggle,lateral_raise,test
+lateral raise_2,kaggle,lateral_raise,train
+lateral raise_4,kaggle,lateral_raise,train
+lateral raise_5,kaggle,lateral_raise,train
+bench press_4,kaggle,bench_press,train
+bench press_42,kaggle,bench_press,train
+bench press_58,kaggle,bench_press,train
+bench press_8,kaggle,bench_press,test
+bench press_3,kaggle,bench_press,train
+bench press_22,kaggle,bench_press,test
+bench press_13,kaggle,bench_press,train
+bench press_59,kaggle,bench_press,train
+bench press_21,kaggle,bench_press,train
+bench press_50,kaggle,bench_press,test
+bench press_25,kaggle,bench_press,train
+bench press_39,kaggle,bench_press,val
+bench press_57,kaggle,bench_press,test
+bench press_20,kaggle,bench_press,train
+bench press_53,kaggle,bench_press,train
+bench press_51,kaggle,bench_press,train
+bench press_12,kaggle,bench_press,test
+bench press_14,kaggle,bench_press,val
+bench press_10,kaggle,bench_press,val
+bench press_48,kaggle,bench_press,train
+bench press_7,kaggle,bench_press,val
+bench press_29,kaggle,bench_press,train
+bench press_60,kaggle,bench_press,train
+bench press_6,kaggle,bench_press,train
+bench press_33,kaggle,bench_press,train
+bench press_28,kaggle,bench_press,test
+bench press_15,kaggle,bench_press,train
+bench press_37,kaggle,bench_press,test
+bench press_43,kaggle,bench_press,val
+bench press_1,kaggle,bench_press,train
+bench press_32,kaggle,bench_press,train
+bench press_11,kaggle,bench_press,train
+bench press_31,kaggle,bench_press,val
+bench press_35,kaggle,bench_press,train
+bench press_47,kaggle,bench_press,train
+bench press_24,kaggle,bench_press,val
+bench press_38,kaggle,bench_press,train
+bench press_44,kaggle,bench_press,train
+bench press_52,kaggle,bench_press,train
+bench press_55,kaggle,bench_press,val
+bench press_5,kaggle,bench_press,val
+bench press_18,kaggle,bench_press,train
+bench press_45,kaggle,bench_press,train
+bench press_46,kaggle,bench_press,train
+bench press_40,kaggle,bench_press,test
+bench press_9,kaggle,bench_press,train
+bench press_34,kaggle,bench_press,test
+bench press_30,kaggle,bench_press,train
+bench press_41,kaggle,bench_press,train
+bench press_2,kaggle,bench_press,train
+bench press_54,kaggle,bench_press,train
+bench press_17,kaggle,bench_press,train
+bench press_26,kaggle,bench_press,train
+bench press_19,kaggle,bench_press,train
+bench press_36,kaggle,bench_press,train
+bench press_23,kaggle,bench_press,train
+bench press_56,kaggle,bench_press,train
+bench press_27,kaggle,bench_press,train
+bench press_16,kaggle,bench_press,train
+bench press_61,kaggle,bench_press,train
+bench press_49,kaggle,bench_press,train
+hammer curl_14,kaggle,hammer_curl,train
+hammer curl_10,kaggle,hammer_curl,val
+hammer curl_8,kaggle,hammer_curl,train
+hammer curl_15,kaggle,hammer_curl,train
+hammer curl_16,kaggle,hammer_curl,val
+hammer curl_17,kaggle,hammer_curl,train
+hammer curl_18,kaggle,hammer_curl,train
+hammer curl_11,kaggle,hammer_curl,train
+hammer curl_12,kaggle,hammer_curl,train
+hammer curl_13,kaggle,hammer_curl,test
+hammer curl_9,kaggle,hammer_curl,test
+hammer curl_19,kaggle,hammer_curl,test
+hammer curl_3,kaggle,hammer_curl,train
+hammer curl_1,kaggle,hammer_curl,train
+hammer curl_6,kaggle,hammer_curl,train
+hammer curl_7,kaggle,hammer_curl,train
+hammer curl_4,kaggle,hammer_curl,val
+hammer curl_2,kaggle,hammer_curl,train
+hammer curl_5,kaggle,hammer_curl,train
+dbp_9,kaggle,decline_bench_press,train
+dbp_1,kaggle,decline_bench_press,train
+dbp_12,kaggle,decline_bench_press,train
+dbp_10,kaggle,decline_bench_press,test
+dbp_8,kaggle,decline_bench_press,val
+dbp_11,kaggle,decline_bench_press,train
+dbp_4,kaggle,decline_bench_press,train
+dbp_5,kaggle,decline_bench_press,test
+dbp_7,kaggle,decline_bench_press,train
+dbp_3,kaggle,decline_bench_press,val
+dbp_6,kaggle,decline_bench_press,train
+dbp_2,kaggle,decline_bench_press,test
+lat pulldown_22,kaggle,lat_pulldown,val
+lat pulldown_30,kaggle,lat_pulldown,train
+lat pulldown_47,kaggle,lat_pulldown,val
+lat pulldown_4,kaggle,lat_pulldown,train
+lat pulldown_5,kaggle,lat_pulldown,train
+lat pulldown_48,kaggle,lat_pulldown,train
+lat pulldown_14,kaggle,lat_pulldown,train
+lat pulldown_34,kaggle,lat_pulldown,train
+lat pulldown_35,kaggle,lat_pulldown,train
+lat pulldown_15,kaggle,lat_pulldown,train
+lat pulldown_26,kaggle,lat_pulldown,test
+lat pulldown_45,kaggle,lat_pulldown,train
+lat pulldown_51,kaggle,lat_pulldown,val
+lat pulldown_18,kaggle,lat_pulldown,train
+lat pulldown_11,kaggle,lat_pulldown,train
+lat pulldown_1,kaggle,lat_pulldown,train
+lat pulldown_41,kaggle,lat_pulldown,train
+lat pulldown_27,kaggle,lat_pulldown,train
+lat pulldown_29,kaggle,lat_pulldown,train
+lat pulldown_25,kaggle,lat_pulldown,train
+lat pulldown_19,kaggle,lat_pulldown,val
+lat pulldown_33,kaggle,lat_pulldown,train
+lat pulldown_16,kaggle,lat_pulldown,train
+lat pulldown_43,kaggle,lat_pulldown,train
+lat pulldown_7,kaggle,lat_pulldown,train
+lat pulldown_36,kaggle,lat_pulldown,train
+lat pulldown_23,kaggle,lat_pulldown,train
+lat pulldown_2,kaggle,lat_pulldown,train
+lat pulldown_42,kaggle,lat_pulldown,test
+lat pulldown_24,kaggle,lat_pulldown,train
+lat pulldown_3,kaggle,lat_pulldown,val
+lat pulldown_10,kaggle,lat_pulldown,train
+lat pulldown_40,kaggle,lat_pulldown,train
+lat pulldown_17,kaggle,lat_pulldown,train
+lat pulldown_49,kaggle,lat_pulldown,train
+lat pulldown_12,kaggle,lat_pulldown,val
+lat pulldown_31,kaggle,lat_pulldown,test
+lat pulldown_20,kaggle,lat_pulldown,train
+lat pulldown_28,kaggle,lat_pulldown,val
+lat pulldown_38,kaggle,lat_pulldown,test
+lat pulldown_32,kaggle,lat_pulldown,train
+lat pulldown_6,kaggle,lat_pulldown,test
+lat pulldown_8,kaggle,lat_pulldown,train
+lat pulldown_37,kaggle,lat_pulldown,train
+lat pulldown_9,kaggle,lat_pulldown,val
+lat pulldown_50,kaggle,lat_pulldown,train
+lat pulldown_21,kaggle,lat_pulldown,test
+lat pulldown_13,kaggle,lat_pulldown,test
+lat pulldown_39,kaggle,lat_pulldown,train
+lat pulldown_44,kaggle,lat_pulldown,train
+lat pulldown_46,kaggle,lat_pulldown,train
+incline bench press_24,kaggle,incline_bench_press,train
+incline bench press_33,kaggle,incline_bench_press,val
+incline bench press_11,kaggle,incline_bench_press,val
+incline bench press_3,kaggle,incline_bench_press,train
+incline bench press_17,kaggle,incline_bench_press,test
+incline bench press_4,kaggle,incline_bench_press,train
+incline bench press_1,kaggle,incline_bench_press,test
+incline bench press_31,kaggle,incline_bench_press,train
+incline bench press_2,kaggle,incline_bench_press,train
+incline bench press_19,kaggle,incline_bench_press,train
+incline bench press_12,kaggle,incline_bench_press,train
+incline bench press_9,kaggle,incline_bench_press,train
+incline bench press_7,kaggle,incline_bench_press,test
+incline bench press_27,kaggle,incline_bench_press,val
+incline bench press_8,kaggle,incline_bench_press,train
+incline bench press_28,kaggle,incline_bench_press,train
+incline bench press_14,kaggle,incline_bench_press,train
+incline bench press_10,kaggle,incline_bench_press,train
+incline bench press_26,kaggle,incline_bench_press,train
+incline bench press_23,kaggle,incline_bench_press,train
+incline bench press_21,kaggle,incline_bench_press,val
+incline bench press_32,kaggle,incline_bench_press,train
+incline bench press_22,kaggle,incline_bench_press,test
+incline bench press_13,kaggle,incline_bench_press,train
+incline bench press_25,kaggle,incline_bench_press,train
+incline bench press_20,kaggle,incline_bench_press,train
+incline bench press_15,kaggle,incline_bench_press,train
+incline bench press_29,kaggle,incline_bench_press,test
+incline bench press_5,kaggle,incline_bench_press,train
+incline bench press_30,kaggle,incline_bench_press,train
+incline bench press_16,kaggle,incline_bench_press,train
+incline bench press_6,kaggle,incline_bench_press,train
+incline bench press_18,kaggle,incline_bench_press,train
+tricep pushdown_33,kaggle,tricep_pushdown,val
+tricep pushdown_42,kaggle,tricep_pushdown,train
+tricep pushdown_25,kaggle,tricep_pushdown,train
+tricep pushdown_40,kaggle,tricep_pushdown,train
+tricep pushdown_18,kaggle,tricep_pushdown,test
+tricep pushdown_32,kaggle,tricep_pushdown,train
+tricep pushdown_12,kaggle,tricep_pushdown,train
+tricep pushdown_6,kaggle,tricep_pushdown,train
+tricep pushdown_3,kaggle,tricep_pushdown,train
+tricep pushdown_36,kaggle,tricep_pushdown,test
+tricep pushdown_41,kaggle,tricep_pushdown,test
+tricep pushdown_49,kaggle,tricep_pushdown,train
+tricep pushdown_10,kaggle,tricep_pushdown,train
+tricep pushdown_30,kaggle,tricep_pushdown,train
+tricep pushdown_29,kaggle,tricep_pushdown,train
+tricep pushdown_7,kaggle,tricep_pushdown,test
+tricep pushdown_8,kaggle,tricep_pushdown,train
+tricep pushdown_39,kaggle,tricep_pushdown,train
+tricep pushdown_19,kaggle,tricep_pushdown,val
+tricep pushdown_50,kaggle,tricep_pushdown,train
+tricep pushdown_2,kaggle,tricep_pushdown,train
+tricep pushdown_28,kaggle,tricep_pushdown,train
+tricep pushdown_26,kaggle,tricep_pushdown,train
+tricep pushdown_4,kaggle,tricep_pushdown,val
+tricep pushdown_20,kaggle,tricep_pushdown,train
+tricep pushdown_47,kaggle,tricep_pushdown,train
+tricep pushdown_16,kaggle,tricep_pushdown,train
+tricep pushdown_43,kaggle,tricep_pushdown,train
+tricep pushdown_48,kaggle,tricep_pushdown,train
+tricep pushdown_14,kaggle,tricep_pushdown,train
+tricep pushdown_15,kaggle,tricep_pushdown,train
+tricep pushdown_34,kaggle,tricep_pushdown,train
+tricep pushdown_17,kaggle,tricep_pushdown,train
+tricep pushdown_1,kaggle,tricep_pushdown,test
+tricep pushdown_21,kaggle,tricep_pushdown,train
+tricep pushdown_44,kaggle,tricep_pushdown,train
+tricep pushdown_35,kaggle,tricep_pushdown,train
+tricep pushdown_11,kaggle,tricep_pushdown,train
+tricep pushdown_5,kaggle,tricep_pushdown,val
+tricep pushdown_24,kaggle,tricep_pushdown,test
+tricep pushdown_13,kaggle,tricep_pushdown,val
+tricep pushdown_22,kaggle,tricep_pushdown,val
+tricep pushdown_23,kaggle,tricep_pushdown,val
+tricep pushdown_27,kaggle,tricep_pushdown,train
+tricep pushdown_9,kaggle,tricep_pushdown,train
+tricep pushdown_45,kaggle,tricep_pushdown,train
+tricep pushdown_46,kaggle,tricep_pushdown,train
+tricep pushdown_38,kaggle,tricep_pushdown,val
+tricep pushdown_31,kaggle,tricep_pushdown,test
+tricep pushdown_37,kaggle,tricep_pushdown,train
+romanian deadlift_14,kaggle,romanian_deadlift,test
+romanian deadlift_7,kaggle,romanian_deadlift,val
+romanian deadlift_8,kaggle,romanian_deadlift,train
+romanian deadlift_12,kaggle,romanian_deadlift,train
+romanian deadlift_11,kaggle,romanian_deadlift,train
+romanian deadlift_5,kaggle,romanian_deadlift,train
+romanian deadlift_10,kaggle,romanian_deadlift,train
+romanian deadlift_13,kaggle,romanian_deadlift,val
+romanian deadlift_6,kaggle,romanian_deadlift,train
+romanian deadlift_9,kaggle,romanian_deadlift,test
+romanian deadlift_2,kaggle,romanian_deadlift,train
+romanian deadlift_4,kaggle,romanian_deadlift,train
+push-up_36,kaggle,pushup,val
+push-up_56,kaggle,pushup,val
+push-up_13,kaggle,pushup,test
+push-up_7,kaggle,pushup,test
+push-up_30,kaggle,pushup,train
+push-up_14,kaggle,pushup,train
+push-up_6,kaggle,pushup,train
+push-up_18,kaggle,pushup,train
+push-up_4,kaggle,pushup,train
+push-up_8,kaggle,pushup,train
+push-up_24,kaggle,pushup,val
+push-up_1,kaggle,pushup,val
+push-up_29,kaggle,pushup,train
+push-up_32,kaggle,pushup,val
+push-up_26,kaggle,pushup,train
+push-up_55,kaggle,pushup,train
+push-up_19,kaggle,pushup,train
+push-up_42,kaggle,pushup,train
+push-up_27,kaggle,pushup,train
+push-up_28,kaggle,pushup,train
+push-up_12,kaggle,pushup,train
+push-up_50,kaggle,pushup,train
+push-up_37,kaggle,pushup,train
+push-up_17,kaggle,pushup,train
+push-up_11,kaggle,pushup,train
+push-up_3,kaggle,pushup,test
+push-up_20,kaggle,pushup,train
+push-up_25,kaggle,pushup,test
+push-up_2,kaggle,pushup,test
+push-up_49,kaggle,pushup,test
+push-up_23,kaggle,pushup,train
+push-up_48,kaggle,pushup,train
+push-up_43,kaggle,pushup,val
+push-up_33,kaggle,pushup,train
+push-up_5,kaggle,pushup,train
+push-up_10,kaggle,pushup,train
+push-up_44,kaggle,pushup,train
+push-up_51,kaggle,pushup,train
+push-up_39,kaggle,pushup,train
+push-up_35,kaggle,pushup,train
+push-up_38,kaggle,pushup,train
+push-up_52,kaggle,pushup,test
+push-up_41,kaggle,pushup,test
+push-up_54,kaggle,pushup,train
+push-up_34,kaggle,pushup,train
+push-up_40,kaggle,pushup,train
+push-up_15,kaggle,pushup,train
+push-up_16,kaggle,pushup,val
+push-up_21,kaggle,pushup,train
+push-up_45,kaggle,pushup,train
+push-up_46,kaggle,pushup,train
+push-up_31,kaggle,pushup,train
+push-up_53,kaggle,pushup,val
+push-up_9,kaggle,pushup,train
+push-up_47,kaggle,pushup,train
+push-up_22,kaggle,pushup,train
+pull up_23,kaggle,pullup,train
+pull up_5,kaggle,pullup,train
+pull up_8,kaggle,pullup,train
+pull up_12,kaggle,pullup,train
+pull up_10,kaggle,pullup,test
+pull up_14,kaggle,pullup,train
+pull up_24,kaggle,pullup,train
+pull up_20,kaggle,pullup,train
+pull up_26,kaggle,pullup,train
+pull up_19,kaggle,pullup,train
+pull up_4,kaggle,pullup,test
+pull up_15,kaggle,pullup,train
+pull up_6,kaggle,pullup,val
+pull up_17,kaggle,pullup,val
+pull up_7,kaggle,pullup,train
+pull up_18,kaggle,pullup,test
+pull up_11,kaggle,pullup,train
+pull up_22,kaggle,pullup,val
+pull up_1,kaggle,pullup,val
+pull up_9,kaggle,pullup,train
+pull up_21,kaggle,pullup,train
+pull up_2,kaggle,pullup,train
+pull up_3,kaggle,pullup,test
+pull up_25,kaggle,pullup,train
+pull up_16,kaggle,pullup,train
+pull up_13,kaggle,pullup,train
+deadlift_15,kaggle,deadlift,train
+deadlift_20,kaggle,deadlift,train
+deadlift_32,kaggle,deadlift,train
+deadlift_25,kaggle,deadlift,val
+deadlift_11,kaggle,deadlift,train
+deadlift_24,kaggle,deadlift,test
+deadlift_5,kaggle,deadlift,train
+deadlift_22,kaggle,deadlift,train
+deadlift_13,kaggle,deadlift,train
+deadlift_31,kaggle,deadlift,train
+deadlift_23,kaggle,deadlift,train
+deadlift_18,kaggle,deadlift,train
+deadlift_9,kaggle,deadlift,train
+deadlift_29,kaggle,deadlift,val
+deadlift_19,kaggle,deadlift,train
+deadlift_4,kaggle,deadlift,test
+deadlift_3,kaggle,deadlift,train
+deadlift_30,kaggle,deadlift,train
+deadlift_12,kaggle,deadlift,test
+deadlift_1,kaggle,deadlift,train
+deadlift_14,kaggle,deadlift,train
+deadlift_10,kaggle,deadlift,train
+deadlift_16,kaggle,deadlift,val
+deadlift_28,kaggle,deadlift,train
+deadlift_26,kaggle,deadlift,train
+deadlift_2,kaggle,deadlift,test
+deadlift_27,kaggle,deadlift,train
+deadlift_6,kaggle,deadlift,train
+deadlift_21,kaggle,deadlift,train
+deadlift_8,kaggle,deadlift,val
+deadlift_7,kaggle,deadlift,train
+deadlift_17,kaggle,deadlift,train
+t bar row_15,kaggle,t_bar_row,test
+t bar row_21,kaggle,t_bar_row,train
+t bar row_14,kaggle,t_bar_row,train
+t bar row_17,kaggle,t_bar_row,train
+t bar row_19,kaggle,t_bar_row,train
+t bar row_16,kaggle,t_bar_row,train
+t bar row_20,kaggle,t_bar_row,val
+t bar row_12,kaggle,t_bar_row,train
+t bar row_9,kaggle,t_bar_row,test
+t bar row_8,kaggle,t_bar_row,train
+t bar row_11,kaggle,t_bar_row,val
+t bar row_10,kaggle,t_bar_row,train
+t bar row_13,kaggle,t_bar_row,train
+t bar row_18,kaggle,t_bar_row,train
+t bar row_7,kaggle,t_bar_row,train
+t bar row_3,kaggle,t_bar_row,train
+t bar row_4,kaggle,t_bar_row,train
+t bar row_1,kaggle,t_bar_row,train
+t bar row_5,kaggle,t_bar_row,train
+t bar row_6,kaggle,t_bar_row,train
+t bar row_2,kaggle,t_bar_row,test
+russian twist_8,kaggle,russian_twist,train
+russian twist_3,kaggle,russian_twist,train
+russian twist_4,kaggle,russian_twist,train
+russian twist_12,kaggle,russian_twist,train
+russian twist_6,kaggle,russian_twist,train
+russian twist_13,kaggle,russian_twist,val
+russian twist_9,kaggle,russian_twist,val
+russian twist_11,kaggle,russian_twist,train
+russian twist_5,kaggle,russian_twist,test
+russian twist_7,kaggle,russian_twist,train
+russian twist_2,kaggle,russian_twist,train
+russian twist_10,kaggle,russian_twist,train
+russian twist_1,kaggle,russian_twist,train
+hip thrust_14,kaggle,hip_thrust,test
+hip thrust_7,kaggle,hip_thrust,train
+hip thrust_12,kaggle,hip_thrust,train
+hip thrust_6,kaggle,hip_thrust,train
+hip thrust_10,kaggle,hip_thrust,val
+hip thrust_16,kaggle,hip_thrust,train
+hip thrust_8,kaggle,hip_thrust,val
+hip thrust_17,kaggle,hip_thrust,train
+hip thrust_9,kaggle,hip_thrust,train
+hip thrust_5,kaggle,hip_thrust,test
+hip thrust_11,kaggle,hip_thrust,train
+hip thrust_15,kaggle,hip_thrust,val
+hip thrust_13,kaggle,hip_thrust,train
+Barbell_Hip_Thrust_Tutorial__gluteworkout_AdobeExpress,kaggle,hip_thrust,train
+hip thrust_3,kaggle,hip_thrust,train
+hip thrust_2,kaggle,hip_thrust,train
+hip thrust_4,kaggle,hip_thrust,train
+hip thrust_1,kaggle,hip_thrust,train
+plank_3,kaggle,plank,test
+plank_6,kaggle,plank,train
+plank_2,kaggle,plank,train
+plank_4,kaggle,plank,train
+plank_7,kaggle,plank,train
+plank_5,kaggle,plank,train
+plank_1,kaggle,plank,val
+shoulder press_12,kaggle,shoulder_press,train
+shoulder press_7,kaggle,shoulder_press,test
+shoulder press_5,kaggle,shoulder_press,val
+shoulder press_11,kaggle,shoulder_press,train
+shoulder press_17,kaggle,shoulder_press,test
+shoulder press_14,kaggle,shoulder_press,train
+shoulder press_6,kaggle,shoulder_press,train
+shoulder press_15,kaggle,shoulder_press,train
+shoulder press_16,kaggle,shoulder_press,val
+shoulder press_10,kaggle,shoulder_press,train
+shoulder press_8,kaggle,shoulder_press,train
+shoulder press_13,kaggle,shoulder_press,test
+shoulder press_9,kaggle,shoulder_press,train
+shoulder press_4,kaggle,shoulder_press,train
+shoulder press_2,kaggle,shoulder_press,train
+shoulder press_1,kaggle,shoulder_press,train
+shoulder press_3,kaggle,shoulder_press,train
+tricep dips_10,kaggle,tricep_dips,train
+tricep dips_18,kaggle,tricep_dips,train
+tricep dips_7,kaggle,tricep_dips,train
+tricep dips_17,kaggle,tricep_dips,train
+tricep dips_15,kaggle,tricep_dips,train
+tricep dips_16,kaggle,tricep_dips,train
+tricep dips_8,kaggle,tricep_dips,train
+tricep dips_20,kaggle,tricep_dips,train
+tricep dips_13,kaggle,tricep_dips,train
+tricep dips_19,kaggle,tricep_dips,train
+tricep dips_12,kaggle,tricep_dips,val
+tricep dips_11,kaggle,tricep_dips,train
+tricep dips_6,kaggle,tricep_dips,test
+tricep dips_14,kaggle,tricep_dips,test
+tricep dips_5,kaggle,tricep_dips,train
+tricep dips_9,kaggle,tricep_dips,test
+tricep dips_1,kaggle,tricep_dips,val
+tricep dips_2,kaggle,tricep_dips,train
+tricep dips_3,kaggle,tricep_dips,val
+tricep dips_4,kaggle,tricep_dips,train
